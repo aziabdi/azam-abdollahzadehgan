@@ -1,0 +1,132 @@
+body{
+    background-color:white;
+    color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.6em; 
+    margin-right: 120px;
+    margin-left: 120px;
+
+}
+body a{
+    
+        color: black;
+        font-size: 12px;
+        padding-bottom: 0;
+       height: 3PX;
+  
+}
+body a:hover{
+    color:blue;
+    }
+     .clr{
+        clear:both;
+    }
+
+    #top {
+    
+        background-position: center right;
+        /*risponsive tex*/
+        min-height: 250px;
+        margin-bottom: 30px;
+        text-align: center;
+        background-color: rgb(99, 99, 90);
+        color: white;
+        }
+    
+        #main1{
+            float:left;
+            width: 50%;
+            padding-top:40px;
+            box-sizing: border-box;
+            font-size: 40px;
+    
+        }
+        
+        #side{
+            float:right;
+            width: 50%;
+            padding:10px;
+            box-sizing: border-box;
+            line-height: 10px;
+            }
+         #side ul{
+            list-style: none;
+            font-size: 18px;
+         }
+         #side a{
+             color: white;
+         }
+        
+        
+           
+    
+
+.container-1 h2{
+    padding-left: 50px;
+    font-style: bold;
+    padding-bottom: 5px;
+    border-bottom: black dotted 1px;
+}
+
+
+.skills h2{
+    padding-left: 50px;
+    font-style: bold;
+    padding-bottom: 5px;
+    border-bottom: black dotted 1px;
+}
+.block{
+    float: left;
+    width:33.3%;
+    box-sizing:border-box;
+}
+
+.work1 a{    
+   height: 3PX;
+}
+
+.work1 h4{
+    color: gray;
+    font-size: 12px;
+padding-top: 0;
+height: 3PX;
+}
+.WORK1 H3{
+    font-style: BOLD;
+}
+.WORK1 {
+    padding-bottom: 10PX;
+}
+
+#edu ul{
+    padding:1px;
+    list-style: none;
+
+}
+
+    #edu li{
+    display:inline;
+}
+.block-1{
+    float: left;
+    width:40%;  
+ 
+    padding-bottom: 0;
+}
+.block-2{
+    float: left;
+    width:40%;
+    box-sizing:border-box;
+    padding-top: 0;
+}
+
+#footer1{
+    background-color: rgb(99, 99, 90);
+        color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    width: 100%;
+    float: left;
+}
